@@ -1,4 +1,10 @@
+
+
+/* Please ❤ this if you like it! */
+
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
 body{
 	font-family: 'Poppins', sans-serif;
@@ -6,7 +12,7 @@ body{
 	font-size: 15px;
 	line-height: 1.7;
 	color: #c4c3ca;
-	background-color: #100d1c;
+	background-color: #1f2029;
 	overflow-x: hidden;
 }
 a {
@@ -70,7 +76,8 @@ h6 span{
   border-radius: 50%;
   color: #ffeba7;
   background-color: #102770;
-  font-family: 'unicons';
+  font-family: 'bootstrap-icons';
+  content: '\F13F';
   z-index: 20;
   top: -10px;
   left: -10px;
